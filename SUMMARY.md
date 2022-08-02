@@ -10,7 +10,7 @@
 * [资源管理服务](arms/README.md)
     * [资源总览](arms/overview.md)
     * [资源检索](arms/search.md)
-    * [资源服务配置](arms/config/service_config.md)
+    * [资源服务配置](arms/config/README.md)
         * [项目管理](arms/config/project.md)
         * [服务树管理](arms/config/service_tree.md)
         * [标签管理](arms/config/label.md)
@@ -38,3 +38,4 @@
     * [安全设置](personal_center/security.md)
     * [企业认证](personal_center/enterprise.md)
 * [系统设置](setting/email.md)
+
